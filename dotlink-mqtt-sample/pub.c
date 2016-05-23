@@ -19,6 +19,8 @@
 PRO_info my_PRO_info;
 volatile int isContinue=1;
 
+
+
 int main(int argc, char* argv[])
 {
     MQTTClient client;
